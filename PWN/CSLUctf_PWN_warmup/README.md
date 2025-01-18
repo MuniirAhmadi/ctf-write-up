@@ -145,6 +145,3 @@ Result:
 CSLU{form4tstr}
 ```
 
-## Conclusion
-
-By leveraging the format string vulnerability, we successfully leaked the flag stored in the stack. This challenge demonstrates the importance of using secure coding practices, such as always specifying format strings explicitly in functions like `printf`. Let me know if there are additional details to refine or expand!
